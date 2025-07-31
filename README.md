@@ -13,12 +13,19 @@
 
 更新comfyui_dependency_checker_25.7.31.py
 
+comfyui_dependency_checker_25.7.31.py 改名 comfyui_dependency_checker.py 
+
 修改 # 路径设置（可根据需要修改）
 COMFYUI_PLUGIN_PATH = r"D:\ComfyUI-aki-v1.6.7z\ComfyUI-aki-v1.6\ComfyUI\custom_nodes"
 可以自己修改路径获取路径
 
 默认是调用系统Python
+如果提示报错 
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/微信图片_2025-07-31_102411_307.png?raw=true)
 
+需要安装 
+pip install packaging
+-----------------------------------------------------------------
 
 使用方法：
 -----------------------------------------------------------------
