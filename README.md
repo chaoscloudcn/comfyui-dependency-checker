@@ -11,6 +11,15 @@
 === 专注于电商落地服务 ===
 
 
+更新comfyui_dependency_checker_25.7.31.py
+
+修改 # 路径设置（可根据需要修改）
+COMFYUI_PLUGIN_PATH = r"D:\ComfyUI-aki-v1.6.7z\ComfyUI-aki-v1.6\ComfyUI\custom_nodes"
+可以自己修改路径获取路径
+
+默认是调用系统Python
+
+
 使用方法：
 -----------------------------------------------------------------
 下载文件  comfyui_dependency_checker.py  run_checker.bat  
