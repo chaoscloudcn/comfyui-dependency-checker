@@ -9,7 +9,18 @@
 === https://www.liblib.art/userpage/52322c5d27404cd28aea54b9641d5451/publish
 
 === 专注于电商落地服务 ===
+-----------------------------------------------------------------
 
+comfyui_dependency_checker-25.11.22.py  改名 comfyui_dependency_checker.py
+
+# 路径设置（根据需求修改）
+COMFYUI_PLUGIN_PATH = r"D:\ComfyUI-2025-11-19\ComfyUI\custom_nodes" # ComfyUI目录路径 解释器路径
+PYTHON_PATH = r"D:\ComfyUI-2025-11-19\python\python.exe"  #  ComfyUI 虚拟环境 Python 解释器路径
+SITE_PACKAGES_PATH = r"D:\ComfyUI-2025-11-19\python\Lib\site-packages"  # ComfyUI 插件安装依赖路径 site-packages 路径
+
+主要满足comfyui自定义目录的需求
+
+-----------------------------------------------------------------
 
 更新comfyui_dependency_checker_25.7.31.py
 
