@@ -5,9 +5,9 @@ from collections import defaultdict
 from packaging import version, specifiers
 
 # 路径设置（根据需求修改）
-COMFYUI_PLUGIN_PATH = r"D:\ComfyUI-2025-11-19\ComfyUI\custom_nodes"
-PYTHON_PATH = r"D:\ComfyUI-2025-11-19\python\python.exe"  # 本地 Python 解释器路径
-SITE_PACKAGES_PATH = r"D:\ComfyUI-2025-11-19\python\Lib\site-packages"  # 本地 Python 插件安装依赖路径 site-packages 路径
+COMFYUI_PLUGIN_PATH = r"D:\ComfyUI-2025-11-19\ComfyUI\custom_nodes" # ComfyUI目录路径 解释器路径
+PYTHON_PATH = r"D:\ComfyUI-2025-11-19\python\python.exe"  #  ComfyUI 虚拟环境 Python 解释器路径
+SITE_PACKAGES_PATH = r"D:\ComfyUI-2025-11-19\python\Lib\site-packages"  # ComfyUI 插件安装依赖路径 site-packages 路径
 
 def parse_requirements_line(line):
     line = line.strip()
