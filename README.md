@@ -66,9 +66,17 @@ pip install packaging
 
 6 安装失败自动跳过安装下一个
 
-
 需要自己开启科学上网
 
+-----------------------------------------------------------------
+我总结出来一些修复依赖的方式
+
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222224857_5288_569.png?raw=true)
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222224922_5289_569.png?raw=true)
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222224933_5290_569.png?raw=true)
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222225025_5292_569.png?raw=true)
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222225036_5293_569.png?raw=true)
+![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251222225057_5294_569.png?raw=true)
 
 
 
